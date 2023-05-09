@@ -220,3 +220,5 @@ lab13
     ├── lib.h
     └──	main.c
 ```
+
+![Program work result](https://github.com/Azivus/lab13/blob/main/photo_2023-05-09_15-38-06.jpg)
