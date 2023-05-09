@@ -30,7 +30,7 @@ int main()
 }
 ```
 ### **Вміст файлу lib.c**
-```
+```c
 #include <stdio.h>
 #include <string.h>
 
